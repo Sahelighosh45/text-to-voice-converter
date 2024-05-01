@@ -81,7 +81,7 @@ select{
     justify-content: center;
 }
 
-@media (max-width: 562px) {
+@media (max-width: 362px) {
     html {
         font-size: 40%;
     }
